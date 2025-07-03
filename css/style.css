@@ -941,19 +941,19 @@ section#phone-animation .dev-screens_screens_item__x7szP img {
 
 
 
-/* choose-DigiSphere */
-section#choose-DigiSphere .container {
+/* choose-BuzzHive */
+section#choose-BuzzHive .container {
     background-image: url(../images/home/ratio/ratio-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-section#choose-DigiSphere .choose-DigiSphere-title {
+section#choose-BuzzHive .choose-BuzzHive-title {
     text-align: center;
 }
 
-section#choose-DigiSphere .choose-DigiSphere-title h5 {
+section#choose-BuzzHive .choose-BuzzHive-title h5 {
     background-color: #381664;
     color: white;
     font-weight: 600;
@@ -969,7 +969,7 @@ section#choose-DigiSphere .choose-DigiSphere-title h5 {
         0px 0px 0px #1a0a36;
 }
 
-section#choose-DigiSphere h6 {
+section#choose-BuzzHive h6 {
     margin-bottom: 0px;
     font-size: 1.2vw;
     text-align: center;
@@ -981,7 +981,7 @@ section#choose-DigiSphere h6 {
 }
 
 
-section#choose-DigiSphere .choose-DigiSphere-card {
+section#choose-BuzzHive .choose-BuzzHive-card {
     padding: 30px 15px;
     margin-top: 25px;
     border-radius: 15px;
@@ -994,17 +994,17 @@ section#choose-DigiSphere .choose-DigiSphere-card {
         -5px -5px 13px #fdfdfd00;
 }
 
-section#choose-DigiSphere .choose-DigiSphere-card h5 {
+section#choose-BuzzHive .choose-BuzzHive-card h5 {
     font-size: 2vw;
     font-weight: 600;
     margin-bottom: 10px;
 }
 
-section#choose-DigiSphere .choose-DigiSphere-card p {
+section#choose-BuzzHive .choose-BuzzHive-card p {
     color: rgba(0, 0, 0, 0.575);
 }
 
-section#choose-DigiSphere .choose-DigiSphere-card img {
+section#choose-BuzzHive .choose-BuzzHive-card img {
     position: absolute;
     width: 12vw;
     bottom: -22px;
@@ -3193,19 +3193,19 @@ section#our-team-page .team-name h5 {
     }
 
 
-    /* choose-DigiSphere */
-    section#choose-DigiSphere h6 {
+    /* choose-BuzzHive */
+    section#choose-BuzzHive h6 {
         margin-bottom: 0px;
         font-size: 2vw;
     }
 
-    section#choose-DigiSphere .choose-DigiSphere-card h5 {
+    section#choose-BuzzHive .choose-BuzzHive-card h5 {
         font-size: 2.3vw;
         font-weight: 600;
         margin-bottom: 10px;
     }
 
-    section#choose-DigiSphere .choose-DigiSphere-card img {
+    section#choose-BuzzHive .choose-BuzzHive-card img {
         width: 27vw;
     }
 
@@ -3547,13 +3547,13 @@ section#our-team-page .team-name h5 {
 
 
 @media screen and (max-width: 600px) {
-    section#choose-DigiSphere h6 {
+    section#choose-BuzzHive h6 {
         font-size: 4vw;
         width: 90%;
         margin: auto;
     }
 
-    section#choose-DigiSphere .choose-DigiSphere-card h5 {
+    section#choose-BuzzHive .choose-BuzzHive-card h5 {
         font-size: 3.3vw;
     }
 
